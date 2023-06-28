@@ -2,6 +2,12 @@
  Musical Source Separation using Diffusion Models
 
 ## Audio Examples
+ The following audio examples are produced by the trained models:
+ * Spectrogram Standard Diffusion Model (SSDM)
+ * Spectrogram Latent Diffusion Model (SLDM)
+ * Mask Latent Diffusion Model (MLDM)
+ * Simple UNet
+ 
  Warning: Audio produced by the SSDM may be very loud
 
 ### Song 1
@@ -21,6 +27,10 @@ https://github.com/aleksolberg/MSS-diffusion/assets/48055499/bd719558-0e14-4760-
 
 https://github.com/aleksolberg/MSS-diffusion/assets/48055499/7bf1d00b-8bda-4e75-8e1a-6433dedede60
 
+ UNet
+
+https://github.com/aleksolberg/MSS-diffusion/assets/48055499/63e9f3bc-df3d-495b-ae2e-b4dfe5c5c38b
+
 ### Song 2
  Target
 
@@ -37,6 +47,10 @@ https://github.com/aleksolberg/MSS-diffusion/assets/48055499/58a30938-b760-48f5-
  MLDM
 
 https://github.com/aleksolberg/MSS-diffusion/assets/48055499/10a450cd-5479-4667-950f-44969f64549c
+
+ UNet
+
+https://github.com/aleksolberg/MSS-diffusion/assets/48055499/f812dc4a-5174-4907-807d-97aadcf35192
 
 ### Song 3
  Target
@@ -55,6 +69,10 @@ https://github.com/aleksolberg/MSS-diffusion/assets/48055499/3dfc52a3-e00b-4a3b-
 
 https://github.com/aleksolberg/MSS-diffusion/assets/48055499/59e353e6-59e0-404d-b547-56606898601b
 
+ UNet
+
+https://github.com/aleksolberg/MSS-diffusion/assets/48055499/81a02bf4-6bd2-4b6c-afa1-7bc915ac8dd6
+
 ### Song 4
  Target
 
@@ -71,6 +89,10 @@ https://github.com/aleksolberg/MSS-diffusion/assets/48055499/28b4add1-34f5-45a6-
  MLDM
 
 https://github.com/aleksolberg/MSS-diffusion/assets/48055499/c34fa3f3-5edf-4231-993a-88f0a86e1bfb
+
+ UNet
+
+https://github.com/aleksolberg/MSS-diffusion/assets/48055499/27375f19-4145-4d3c-bdc0-2efb3991ebe2
 
 ### Song 5
  Target
@@ -89,6 +111,10 @@ https://github.com/aleksolberg/MSS-diffusion/assets/48055499/544c5705-1c20-4d45-
 
 https://github.com/aleksolberg/MSS-diffusion/assets/48055499/5a98f209-5c5c-463c-a8d5-bf09ef901520
 
+ UNet
+
+https://github.com/aleksolberg/MSS-diffusion/assets/48055499/842dcd1a-1405-49a9-8d33-377533a18c6e
+
 ### Song 6
  Target
 
@@ -105,6 +131,10 @@ https://github.com/aleksolberg/MSS-diffusion/assets/48055499/d363bf2a-9667-4886-
  MLDM
 
 https://github.com/aleksolberg/MSS-diffusion/assets/48055499/f780de0f-f61e-42eb-94df-feba3c48a0b2
+
+ UNet
+
+https://github.com/aleksolberg/MSS-diffusion/assets/48055499/a6e9b29b-7235-49cc-9d10-967f88455a3d
 
 ### Song 7
  Target
@@ -123,6 +153,10 @@ https://github.com/aleksolberg/MSS-diffusion/assets/48055499/cdc5cc64-e7a5-4676-
 
 https://github.com/aleksolberg/MSS-diffusion/assets/48055499/f0fc5868-d7ff-4043-bfc0-b5406a5ab0b3
 
+ UNet
+
+https://github.com/aleksolberg/MSS-diffusion/assets/48055499/c273f350-1aed-448e-8ce0-225b859219c5
+
 ### Song 8
  Target
 
@@ -139,6 +173,10 @@ https://github.com/aleksolberg/MSS-diffusion/assets/48055499/239a02b2-3fb6-4ed0-
  MLDM
 
 https://github.com/aleksolberg/MSS-diffusion/assets/48055499/bf40192f-e00e-45ff-8370-6c7bef95e033
+
+ UNet
+
+https://github.com/aleksolberg/MSS-diffusion/assets/48055499/c9712884-cbe6-4374-80eb-b103024d21d1
 
 ### Song 9
  Target
@@ -157,6 +195,10 @@ https://github.com/aleksolberg/MSS-diffusion/assets/48055499/96597386-e30f-4f6c-
 
 https://github.com/aleksolberg/MSS-diffusion/assets/48055499/3c531db8-8231-4abd-9d27-12691f401c36
 
+ UNet 
+
+https://github.com/aleksolberg/MSS-diffusion/assets/48055499/4e31ca66-9e4d-40aa-b6d1-a178a2e5112c
+
 ### Song 10
  Target
 
@@ -173,3 +215,7 @@ https://github.com/aleksolberg/MSS-diffusion/assets/48055499/89606d4c-ea29-4d5a-
  MLDM
 
 https://github.com/aleksolberg/MSS-diffusion/assets/48055499/b2eea5bd-9a76-4534-bd49-24e049824758
+
+ UNet
+
+https://github.com/aleksolberg/MSS-diffusion/assets/48055499/1cfe59ae-7c5f-414a-b3cf-3c8fea469a91
